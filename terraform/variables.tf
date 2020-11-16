@@ -15,9 +15,9 @@ variable "region" {
 }
 
 variable "UNIQUE_ANIMAL_IDENTIFIER" {
-  default = "changeme"
+  default = "pootLovato"
 }
 
 variable "FORKED_REACT_REPO" {
-  default = "changeme"
+  default = "https://github.com/alex-m-burns/react-app-devops-playground.git"
 }
